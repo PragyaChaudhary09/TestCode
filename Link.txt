@@ -1,0 +1,81 @@
+Browser Detection Link:
+https://www.opentechguides.com/how-to/article/javascript/99/browser-detect.html
+
+https://stackoverflow.com/questions/16861609/oracle-compare-two-count-different-tables
+
+C:\oraclexe\app\oracle\product\11.2.0\server\network\ADMIN
+
+C:\DevSuiteHome_1\NETWORK\ADMIN
+CTRL+SHIFT+1: to set a bookmark
+CTRL+1: to go on bookmark
+rightclick on bookmark - click on toggle bookmark option :to remove a bookmark
+
+https://www.pluralsight.com/courses/oracle-plsql-fundamentals -    (4hr 28 mins)
+https://www.pluralsight.com/courses/oracle-plsql-fundamentals-part2 (5hr 10 mins). 
+
+CTRL+SHIFT+R =  To clear the cache
+
+https://www.wisdomjobs.com/e-university/apex-tutorial-1026/apex-overview-17770.html-APEX
+
+https://docs.oracle.com/cd/B25329_01/doc/appdev.102/b25309/concept.htm
+
+STUDY
+-----
+https://intellipaat.com/interview-question/pl-sql-interview-questions/
+
+http://www.softwaretestinghelp.com/plsql-interview-questions/
+
+https://community.oracle.com/thread/273852
+
+http://jshint.com/
+
+APEX:
+-----
+https://docs.oracle.com/database/apex-5.1/HTMDB/managing-session-state-values.htm#HTMDB03015
+
+https://www.wisdomjobs.com/e-university/oracle-packages-interview-questions.html
+
+http://oracle-sqlserver.over-blog.com/oracle-pl-sql-interview-questions-for-3-years-experience.html
+
+Marathi
+--------
+https://www.youtube.com/watch?v=PN9RF-5TaYo
+http://learn-marathi-from-hindi-kaushiklele.blogspot.in/
+
+word to pdf convertor
+-----------------------
+https://pdfcandy.com/word-to-pdf.html
+
+
+Toad SHORTCUTS:
+http://www.informit.com/articles/article.aspx?p=31544&seqNum=2
+
+in the run window write the command like %windir%\system32\oobe
+C:\windows\system32\oobe\info\backgrounds\
+
+https://blogs.oracle.com/oraclemagazine/working-with-json-arrays-in-plsql
+
+https://www.techbeamers.com/sql-query-questions-answers-for-practice/
+
+
+[‎11/‎21/‎2019 11:46 AM]  R, JAYASHREE:  
+Pls raise request in below link for freeware installation
+https://opensource.honeywell.com/  open source
+https://honeywell.service-now.com/itdirect?id=sc_cat_item&sys_id=8c3f191ddbfd638092773220ad961960  Freeware 
+ 
+
+\\ie10nt3ks001\tes\SIM_DB_CNS_LAB- vacation plan
+
+https://www.complexsql.com/complex-sql-queries-examples-with-answers/
+
+https://devgym.oracle.com/pls/apex/f?p=10001:202:13727044630626::NO:RP,202::
+
+https://labs.sogeti.com/revolutionizing-predictive-maintenance/
+
+https://www.quora.com/What-are-the-frequently-asked-basic-and-complex-queries-SQL-during-a-tech-interview
+
+ML
+https://www.quora.com/What-is-the-best-way-for-a-complete-beginner-to-learn-machine-learning
+https://data-flair.training/blogs/machine-learning-tutorials-home/
+
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows/4
